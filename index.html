@@ -3,21 +3,31 @@ layout: default
 ---
 
 <div class="home">
+  <h1>Besoin d'un développeur web Full-stack ?</h1>
+  <p>De la multinationale à la startup, depuis 5 ans, je mets mes compétences à disposition de mes clients afin de
+    garantir la réussite de leur projet digital.
+    Passionné par mon métier de développeur web, j'attache une grande importance à l'expérience utilisateur ainsi qu'à
+    la qualité du code produit.</p>
 
-  <h1 class="page-heading">Posts</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <h1>Vous avez dit Full-stack?</h1>
+  <img class="customer-image" src="/assets/img/the_stack.png" alt="Full-stack">
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  <h1>Ils m'ont fait confiance:</h1>
+  <div class="customer-wrapper">
+    <div class="customer">
+      <img class="customer-image" src="/assets/img/airbus.png" alt="airbus">
+      <!-- <div class="customer-name">Aéronautique</div> -->
+    </div>
+    <div class="customer">
+      <img class="customer-image" src="/assets/img/CMA_CGM.png" alt="cma cgm">
+      <!-- <div class="customer-name">Transport maritime</div> -->
+    </div>
+    <div class="customer">
+      <img class="customer-image" src="/assets/img/INSIDE-LOGO.png" alt="inside">
+      <!-- <div class="customer-name">Airbus</div> -->
+    </div>
+  </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

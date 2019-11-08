@@ -1,11 +1,30 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: A propos
+permalink: /apropos/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![profile]({{site.baseurl}}/assets/img/profile.jpeg)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+#### Mes livres de réference:
+- The pragmatic programer
+- Code complete 2
+- Structure and Interpretation of Computer Program (à finir)
+- CODE: the hidden language of computer hardware and software
+- The elements of computing systems
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+#### J'aime:
+- Les sports nautiques
+- Les débats (pain au chocolat ou chocolatine?)
+- Les Fajitas
+- Le code propre
+
+#### J'aime moins (pas :P):
+- Internet qui rame
+- Les jours sans vent ni vague
+- La dernière saison de GOT
+- Ça prend combien de temps de faire un site?
+
+#### Plus formellement:
+- mon [CV]({{ site.url }}/assets/doc/CVClementHamon.pdf)

@@ -1,40 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>clement Hamon</title>
+    <description>Here you will find couple of things that went to my mind, things I wanted to learn, experiment and share. If anyone can benefit from it, I would be more than happy ;).
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Mar 2016 16:43:35 +0100</pubDate>
-    <lastBuildDate>Sat, 19 Mar 2016 16:43:35 +0100</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 08 Nov 2019 16:59:39 +0100</pubDate>
+    <lastBuildDate>Fri, 08 Nov 2019 16:59:39 +0100</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>Welcome to Jamrok</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Thoughts about self study - Focus on the things that don't change</title>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;“The Only Thing That Is Constant Is Change”&lt;/em&gt;&lt;/strong&gt; Heraclitus&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Software industry change at an exponential rate, and the mainstream adoption of AI won’t slow it down. (I know I am not teaching anything here but wait ^^)&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Web developers are familiar with the so called “JS fatigue”, where you spend a huge amount of time to master the new
+hot framework/technology. And then a new one appears, and you have to throw everything away every 6 months…&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;“You’ve learned AngularJS, great, but now we use Angular2… Ooops sorry again now it’s VueJs ^^ but for this other project we use ReactJs, just because…”&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So, are we condemned to the &lt;strong&gt;&lt;em&gt;“disposable knowledge”?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Maybe not, if you did’t just skimmed the surface or spent hours to learn the API by heart, but rather tried to understand the concept on which it sits on.&lt;/p&gt;
+
+&lt;p&gt;If you do a lot of self-study, you probably often ask yourself, how can I learn the next skill that will be in demand. 
+But it’s actually the wrong question. Jeff Bezos spotted the right question for his own business, &lt;strong&gt;&lt;em&gt;“what’s not going to change?”&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;What are the skills that will remains no matter the framework, no matter the language, that’s the good question. Will problem solving be a skill in demand in the future? Will people skill be useless? Will mathematics be something of the past?…&lt;/p&gt;
+
+&lt;p&gt;We should see our skills map like an investment portfolio and don’t put all your eggs in one basket:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Will change very soon (tomorrow?): the API of your actual framework v1.xy&lt;/li&gt;
+  &lt;li&gt;Will change soon: the new hot framework/language you have to master&lt;/li&gt;
+  &lt;li&gt;Will probably change: the architectural concept on which is based your framework&lt;/li&gt;
+  &lt;li&gt;Won’t change anytime soon (but who knows): Discrete mathematics, algorithm analysis, computer architecture, language interpretation process…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To Conclude:&lt;/p&gt;
+
+&lt;p&gt;Even if it’s great fun to learn and try out the new hot technology, try to see beyond, look inside the code, look for patterns that you know and the way it implements them etc… Even try to replicate a small version of it.
+Sometimes, grab a good old CS classic book and study it deeply, you will be surprise how old concepts are what’s make the DNA of your new super amazing framework.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/thoughts/market/education/2018/11/12/thoughts.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/market/education/2018/11/12/thoughts.html</guid>
+        
+        
+        <category>thoughts</category>
+        
+        <category>market</category>
+        
+        <category>education</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to my blog</title>
+        <description>&lt;p&gt;Finally, the most important step about blogging, but also the easiest one, is done. I always wanted to have a space where I can write down my thoughts and
+experiments, not only for myself, but also for others to read, comment and criticise.
+I took sooooo much from the internet community that I feel now the need to give something back.&lt;/p&gt;
+
+&lt;p&gt;But now comes the hardest part, I have to commit to deliver content on a regular basis.
+I’ve always been impressed when I find blogs where people write articles every week for more than 10 years.&lt;/p&gt;
+
+&lt;p&gt;I am a kind of perfectionist, I know I can write tones of articles and never publish them thinking they are not worth it.
+I will try fight against my own personality in order to deliver something knowing it could be improved.
+So if you think I wrote things that are not correct or just because you think differently please please please write a comment, and I will be more than happy to take them into consideration.&lt;/p&gt;
+
+&lt;p&gt;As I can see, there are 14 “I”s in this article, I promise that it will be the first and last time. From now on, I will focus on delivering interesting (or not ^^) stuff that can benefits others.&lt;/p&gt;
+
+&lt;p&gt;PS: As you probably already spotted, English is not my mother tongue, so if you see any typo feel free to let me know.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 19 Mar 2016 15:38:56 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/03/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/03/19/welcome-to-jekyll.html</guid>
+        <pubDate>Sat, 10 Nov 2018 15:38:56 +0100</pubDate>
+        <link>http://localhost:4000/miscellaneous/2018/11/10/welcome.html</link>
+        <guid isPermaLink="true">http://localhost:4000/miscellaneous/2018/11/10/welcome.html</guid>
         
         
-        <category>jekyll</category>
+        <category>miscellaneous</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>Quote - Always look on the pudding side of life</title>
+        <description>&lt;p&gt;&lt;strong&gt;“If I’m baking a cake and it fails, it becomes a pudding.”&lt;/strong&gt; ﻿Cliff Crozier&lt;/p&gt;
+
+&lt;p&gt;This quote is extracted from a video &lt;a href=&quot;https://www.youtube.com/watch?v=9AThycGCakk&quot;&gt;Life Lessons From 100-Year-Olds&lt;/a&gt;.
+I like it because it’s a funny analogy for looking at things on the bright side and turn any situation into an opportunity.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VOAtCOsNuVM&quot;&gt;Bonus&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Nov 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/quote/lifestyle/2018/11/10/quote.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quote/lifestyle/2018/11/10/quote.html</guid>
+        
+        
+        <category>quote</category>
+        
+        <category>lifestyle</category>
         
       </item>
     
