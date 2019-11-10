@@ -7,7 +7,7 @@ permalink: /apropos/
 ![profile]({{site.baseurl}}/assets/img/profile.jpeg)
 
 #### Mes livres de réference:
-- The pragmatic programer
+- The pragmatic programmer
 - Code complete 2
 - Structure and Interpretation of Computer Program (à finir)
 - CODE: the hidden language of computer hardware and software
